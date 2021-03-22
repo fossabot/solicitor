@@ -30,6 +30,9 @@ for the project. Text or spreadsheet (Excel) based reports might be created to d
   * Builtin configuration might be overridden/extended by configuration data contained in a single extension file (ZIP format)
   * This allows to safely provide organization specific rules and reporting templates to all projects of an organization (e.g. to reflect the specific OSS usage policy of the organization) 
 
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fduph97%2Fsolicitor.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fduph97%2Fsolicitor?ref=badge_large)
+
 ## Usage
 
 ### Getting started
@@ -53,4 +56,4 @@ On the [devonFW Youtube Channel](https://www.youtube.com/channel/UCtb1p-24jus-Qo
 The following diagram shows the Spring Beans of Solicitor including their major interconnections. See the Javadoc for more infomation.
 
 ![Solicitor Beans](https://github.com/devonfw-forge/solicitor/raw/master/src/main/java/com/devonfw/tools/solicitor/doc-files/solicitor_beans.png "Solicitor Spring Beans - See the Solicitor Javadoc for more information")
-
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fduph97%2Fsolicitor.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fduph97%2Fsolicitor?ref=badge_shield)
